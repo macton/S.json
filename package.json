@@ -1,0 +1,22 @@
+{
+  "name": "s.json",
+  "version": "1.0.0",
+  "description": "S.json - JSON",
+  "main": "s.json.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macton/S.json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macton/S.json/issues"
+  },
+  "homepage": "https://github.com/macton/S.json#readme",
+  "dependencies": {
+    "s": "macton/S"
+  }
+}
